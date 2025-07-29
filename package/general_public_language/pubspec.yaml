@@ -1,0 +1,27 @@
+name: "general_public_language"
+description: "general_public_language is program for help you, booster up your projects significants with amazing features and super easy for use"
+version: "0.0.0"
+homepage: "https://youtube.com/@@azkadev"
+repository: "https://github.com/azkadev/general_public_language"
+issue_tracker: "https://github.com/azkadev/general_public_language/issues"
+documentation: "https://github.com/azkadev/general_public_language"
+funding:
+  - "https://github.com/sponsors/azkadev"
+  - "https://www.patreon.com/c/azkadev"
+  - "https://opencollective.com/azkadev"
+  - "https://paypal.me/azkaaxeliongibran"
+platforms:
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+dependencies:
+  ffi: "^2.1.4"
+dev_dependencies:
+  lints: "^5.0.0"
+  test: "any"
+
